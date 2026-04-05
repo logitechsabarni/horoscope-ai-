@@ -158,3 +158,5 @@ Python 3.9+ recommended.
 ✦  COSMOS · AI Celestial Intelligence · Powered by Groq + LLaMA  ✦
 
 *The cosmos speaks — you decide.*
+
+https://spiwiak53fccxzet2mgbdj.streamlit.app/- This is the app
